@@ -1,0 +1,30 @@
+_repo: The-Things-Which-RemainAn-Address-To-Young-Ministers_15861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodsell, Daniel A. (Daniel Ayres)
+    alias: Goodsell, D. A. (Daniel Ayres)
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '6345'
+    url: http://www.gutenberg.org/2009/agents/6345
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology, Doctrinal'
+- !lcc 'BT'
+title: 'The Things Which Remain
+
+  An Address To Young Ministers'
+url: http://www.gutenberg.org/ebooks/15861
